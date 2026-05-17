@@ -36,9 +36,7 @@
 <a href="https://www.linkedin.com/in/{{yourname}}">
   <img src="https://img.shields.io/badge/LinkedIn-8B7AA8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://orcid.org/{{0000-0000-0000-0000}}">
-  <img src="https://img.shields.io/badge/ORCID-B8AFA5?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
-</a>
+
 
 </div>
 
