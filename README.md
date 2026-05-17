@@ -33,9 +33,9 @@
 <a href="https://t.me/{{yourtg}}">
   <img src="https://img.shields.io/badge/Telegram-7A95B8?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
-<a href="https://www.linkedin.com/in/{{yourname}}">
+<!-- <a href="https://www.linkedin.com/in/{{yourname}}">
   <img src="https://img.shields.io/badge/LinkedIn-8B7AA8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+</a> -->
 
 
 </div>
@@ -49,7 +49,7 @@ name:        Aim Batalova
 role:        Digital Humanities Student
 university:  Ca'Foscari University of Venice
 ```
-## 📜 Curently working 
+<!--## 📜 Curently working 
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -67,7 +67,7 @@ university:  Ca'Foscari University of Venice
       <a href="[https://github.com/AimBtlv/research-computational_philology/](https://github.com/AimBtlv/research-computational_philology.git)">→ Open Repository </a>
     </td>
   </tr>
-</table>
+</table> -->
 
 
 
