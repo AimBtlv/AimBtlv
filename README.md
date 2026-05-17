@@ -15,13 +15,13 @@
 <!-- You can replace this with a custom banner image (1200x300) -->
 <!-- Free banner makers: banner.godori.dev / capsule-render      -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=180&section=header&text=Welcome%2C%20I'm%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=180&section=header&text=Welcome%2C%20%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="banner"/>
 
 </div>
 
 <div align="center">
 
-### *Digital Humanities Student · *
+### Digital Humanity Studies
 
 <br>
 
@@ -58,7 +58,7 @@ university:  Ca'Foscari University of Venice
       <h3>📜 research-project_management</h3>
       <p><i>{{...}}</i></p>
   
-      <a href=[https://github.com/{{/AimBtlv/}}/{{/research-project_management/}}]("https://github.com/AimBtlv/research-project_management.git")>→ Open Repository</a>
+      <a href=[https://github.com//AimBtlv/research-project_management/]("https://github.com/AimBtlv/research-project_management.git")>→ Open Repository</a>
     </td>
     <td width="50%" valign="top">
       <h3>🗂 research-computational_philology</h3>
