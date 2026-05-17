@@ -15,7 +15,7 @@
 <!-- You can replace this with a custom banner image (1200x300) -->
 <!-- Free banner makers: banner.godori.dev / capsule-render      -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A5E66-100:C97B5A&height=180&section=header&text=Hi%2C%20I'm%20{{YourName}}&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2A5E66&height=180&section=header&text=Welcome!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="banner"/>
 
 </div>
 
